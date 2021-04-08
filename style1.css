@@ -1,0 +1,60 @@
+body {
+	background-color: #042860;
+	margin: 0;
+	color:white;
+}
+
+.header {
+background-color: black;
+text-align:center;	
+}
+
+.bash {
+	margin-bottom:0;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.SQL {
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.Cplus {
+	
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.C {
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.html {
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.css {
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
+
+.git {
+	margin-top:20px;
+	background-color: transparent;
+	font-size: 20px;
+	
+}
